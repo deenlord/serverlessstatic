@@ -5,7 +5,4 @@
 - [X] test
 
 
-[GitHub Repo](https://github.com/deenski/serverlessstatic)
-
-
-
+[GitHub Repo](https://github.com/deenlord/serverlessstatic)

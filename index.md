@@ -1,4 +1,5 @@
 # First Serverless Test
+- [about](about.md)
 - [X] set up index.md
 - [X] map dns cname record
 - [x] apply theme

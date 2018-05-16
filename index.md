@@ -1,6 +1,11 @@
 # First Serverless Test
-- [ ] set up index.md
-- [ ] map dns cname record
-- [ ] test
+- [X] set up index.md
+- [X] map dns cname record
+- [x] apply theme
+- [X] test
 
-[GitHub Repo](https://github.com/deenski/serverssstatic)
+
+[GitHub Repo](https://github.com/deenski/serverlessstatic)
+
+
+

@@ -1,4 +1,4 @@
-[# First Serverless Test](index.md)
+# [First Serverless Test](index.md)
 - [about](about.md)
 - [X] set up index.md
 - [X] map dns cname record
